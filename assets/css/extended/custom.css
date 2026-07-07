@@ -1,0 +1,74 @@
+/* 浅色模式：纯白背景，不影响深色模式 */
+:root:not([data-theme="dark"]) {
+  --theme: #ffffff;
+  --entry: #ffffff;
+  --code-bg: #ffffff;
+  --border: #e5e5e5;
+}
+
+:root:not([data-theme="dark"]) body,
+:root:not([data-theme="dark"]) .list,
+:root:not([data-theme="dark"]) .main,
+:root:not([data-theme="dark"]) .header,
+:root:not([data-theme="dark"]) .footer {
+  background: #ffffff !important;
+}
+
+:root:not([data-theme="dark"]) .post-entry,
+:root:not([data-theme="dark"]) .first-entry,
+:root:not([data-theme="dark"]) .archive-entry {
+  background: #ffffff !important;
+}
+
+/* 首页主视觉区域 */
+.bhs-home-hero {
+  min-height: calc(100vh - 120px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+  padding: 3rem 1rem 5rem;
+  overflow: hidden;
+}
+
+/* 首页大字：9月8 */
+.bhs-home-title {
+  margin: 0;
+  text-align: center;
+  font-size: clamp(5rem, 18vw, 16rem);
+  line-height: 0.9;
+  font-weight: 900;
+  letter-spacing: clamp(0.02em, 1vw, 0.12em);
+  white-space: nowrap;
+}
+
+.bhs-home-title span {
+  display: inline-block;
+}
+
+/* 首页图片：在大字下方 */
+.bhs-home-image {
+  display: block;
+  width: min(72vw, 520px);
+  height: auto;
+  margin: 0 auto;
+}
+
+/* 手机端适配 */
+@media (max-width: 640px) {
+  .bhs-home-hero {
+    min-height: calc(100vh - 100px);
+    gap: 1.8rem;
+    padding: 2rem 0.75rem 4rem;
+  }
+
+  .bhs-home-title {
+    font-size: clamp(4rem, 24vw, 7rem);
+    letter-spacing: 0.04em;
+  }
+
+  .bhs-home-image {
+    width: min(86vw, 360px);
+  }
+}

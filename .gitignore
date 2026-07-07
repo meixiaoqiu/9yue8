@@ -1,0 +1,58 @@
+themes/*
+!themes/PaperMod
+!themes/PaperMod/
+start.txt
+
+# Local private content
+_private/
+drafts/
+private-notes/
+raw-images/
+backup/
+backups/
+
+# Hugo build output
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Hugo local cache / generated stats
+.hugo_stats.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+.obsidian/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node files, only relevant if later you use a theme with npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local archives / database dumps
+*.bak
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.sql
+*.db
+*.sqlite
+*.sqlite3

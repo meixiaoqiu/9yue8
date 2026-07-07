@@ -1,0 +1,56 @@
+baseURL = 'https://9yue8.com/'
+title = '9月8'
+theme = 'PaperMod'
+
+defaultContentLanguage = 'zh'
+defaultContentLanguageInSubdir = false
+
+[params]
+  env = 'production'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  displayFullLangName = true
+
+[languages]
+
+  [languages.zh]
+    label = '中文'
+    locale = 'zh-CN'
+    weight = 1
+    title = '9月8'
+
+    [languages.zh.params]
+      description = '小王的个人网站'
+
+    [languages.zh.params.homeInfoParams]
+      Title = '9月8'
+      Content = '小王的个人网站'
+
+    [[languages.zh.menu.main]]
+      identifier = 'voice'
+      name = '表达'
+      url = '/voice/'
+      weight = 10
+
+
+  [languages.en]
+    label = 'English'
+    locale = 'en-US'
+    weight = 2
+    title = '9月8'
+
+    [languages.en.params]
+      description = "Xiaowang website"
+
+    [languages.en.params.homeInfoParams]
+      Title = '9月8'
+      Content = "Xiaowang website"
+
+    [[languages.en.menu.main]]
+      identifier = 'voice'
+      name = 'Voice'
+      url = '/en/voice/'
+      weight = 10
