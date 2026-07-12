@@ -25,154 +25,144 @@ cover:
 author: 小王
 weight:
 ---
-I saw many people leave their homes.
+I see so many people leaving their homes.
 
-They live in cheap rental rooms on the outskirts of big cities, leaving before dawn and returning after dark. Every day is a rush, a rush to work, a rush to make ends meet. The rooms are tiny, the windows are tiny, the beds are tiny. People are crammed into a cubicle, waking up to work, working to pay rent, and then waking up again. This, of course, can be called striving.
+They live in cheap rentals on the outskirts of big cities, leaving before dawn and returning only after dark. Every day is a race—racing to catch the bus, racing to get the work done, racing just to scrape a living together. Their rooms are tiny, their windows are tiny, and their beds are tiny. People are crammed into little cubicles; they wake up to work, work to pay the rent, and pay the rent just to wake up and do it all over again. Of course, one could call this "striving."
 
-This world is very good at giving unpleasant things nice names. Leaving one's hometown is called a way out, begging is called maturity, being chased by life is called ambition. If someone can't survive in their own place, people don't say they've been driven out; they just say they should go out and try their luck.
+The world is adept at giving unpleasant realities pleasant-sounding names. Leaving one’s hometown becomes "seeking a way out"; bowing one’s head to beg becomes "maturity"; being hounded by the demands of survival becomes "ambition." When a person can no longer survive where they belong, people don't say they were driven out; instead, they say the person ought to go out and "make their mark."
 
-I've also seen people risk their lives to go to a place where they don't speak the language, just for a little shelter, a little chance of survival. I've also seen the cage homes in Hong Kong, and I'm speechless. I can't imagine how I could live in such a place. Even turning over is difficult, even straightening one's legs is a luxury.
+I have also seen people risk their lives to flee to other places, seeking nothing more than a shred of shelter—a sliver of a chance to stay alive. I have seen the "cage homes" in Hong Kong, and I was left speechless. I cannot imagine how one could survive in such a place—where turning over is a struggle, and stretching out one’s legs feels like a luxury.
 
-Is this still a human life? As someone living at the bottom of society, I look up at the sky and see no roof over my head; I look down at the ground and see no place to stand.
+Is this any way for a human being to live?
 
-Yet I was born on this land.
+As someone living at the very bottom of society, I look up at the sky and find no roof to shield me from the wind; I look down at the earth and find not even an inch of ground to call my own.
 
-Where I was born is my home.
+Yet, I was born on this land.
 
-So I've always wanted to ask: Why?
+Wherever I was born—that is my home.
 
-If I can't survive in the place where I was born, why should I be the one to leave? If I have no money for food, why should I leave? If I don't have a house to sleep in peacefully, no place to stand with dignity, why should I be the one who ends up being educated?
+So, I have always wanted to ask: By what right?
 
-Why does the world corner people and then expect them to thank it for giving them a way out?
+If I cannot survive in the place where I was born, why am I the one who has to leave? If I have no money for food, why must I go away? If I have no room to sleep in peace, no space to stand with dignity, why am I the one who ends up being lectured?
 
-I won't leave.
+By what right does the world corner a person, only to demand gratitude for the escape route it offers?
 
-When I say I won't leave, I don't mean I can't leave a certain city in my life, nor do I mean people can't migrate, can't go far away, can't choose a different life. That's too narrow-minded.
+I will not leave.
 
-When I say I won't leave, I mean I won't run away.
+When I say I will not leave, I do not mean that I cannot move to a different city, nor that people shouldn't migrate, travel to distant lands, or choose a different way of life. That would be too narrow a view.
 
-I won't hide my problems, I won't portray suffering as inspiration, I won't portray expulsion as opportunity, I won't portray bowing my head as growth. I refuse to accept being treated like a dog kicked out of the house, tail between my legs, scavenging for scraps elsewhere, and then having to thank the world for teaching me reality.
+When I say I will not leave, I mean I will not flee.
 
-I don't thank it.
+I will not hide the problems, nor dress up suffering as an inspiring tale, nor rebrand eviction as opportunity, nor call submission "growth." I refuse to accept being driven out like a dog, tail tucked between my legs, scavenging for scraps elsewhere—only to turn back and thank the world for teaching me the harshness of reality.
 
-I stand here, facing the world head-on.
+I will not offer thanks.
 
-I'm passionate about confronting the cruelty of reality, about the problems themselves. The uglier reality is, the clearer I want to see it. The more absurd the world is, the less I want to avoid it. Some people turn away at the sight of a wall, some close their eyes at the sight of blood. I can't. When I see these things, my blood boils, I feel compassion, and I want to ask: What gives them the right?
+I stand right here, looking this world straight in the eye.
 
-Everyone should have the basic right to exist.
+I am driven to confront the cruelty of reality and the problems themselves head-on. The uglier reality gets, the more clearly I want to see it. The more absurd the world becomes, the less I want to look away or walk around it. Some turn back when they see a wall; others close their eyes at the sight of blood. Not me. When I see these things, my blood boils; I feel a deep, aching compassion, and I am compelled to ask: By what right is this happening?
 
-Existing doesn't mean achieving great wealth, living in luxury, eating gourmet food, or being fawned over. I'm not demanding everyone live like an emperor, nor that everyone become a millionaire.
+Everyone deserves the basic right to exist.
 
-I'm simply saying that an ordinary person, a common person, someone who isn't beautiful, intelligent, or strong, should also be able to live with dignity.
+"Existing" doesn't mean soaring to success or living in luxury. I am not demanding that everyone become a millionaire.
 
-Is this really so unfair?
+I am simply saying that an ordinary person—someone plain, not particularly smart, and not physically strong—should still be able to live with dignity.
 
-From birth, people are different. Some are beautiful, some aren't. Some are smart, some aren't. Some are naturally eloquent, some are annoying the moment they open their mouths. Some are strong, some aren't. Some are good at competing, some never learn to push others aside.
+Is that too much to ask?
 
-But the world doesn't only belong to the beautiful, the smart, the strong, the competitive, the calculating.
+From the moment we are born, people are different. Some are beautiful, others are not. Some are smart, others less so. Some have a natural gift for words; others annoy people the moment they open their mouths. Some are strong, others weak. Some excel at fighting for what they want, while others never learn how to push others aside.
 
-The world also belongs to me.
+But the world does not belong solely to the beautiful, the smart, the strong, the aggressive, or the calculating.
 
-It belongs to those who aren't beautiful, not smart, not strong, not good at interpersonal relationships, and not good at competing.
+The world belongs to me, too.
 
-I don't accept that only "capable people" deserve to be well-off. Capable people can certainly live better, live in bigger houses, eat more expensive food, and buy more useless but pretty things. I'm neither jealous nor against that.
+It belongs to those who aren't beautiful or smart, who lack strength, who aren't adept at social maneuvering, and who don't know how to fight for their share.
 
-But it can't be the other way around, saying that incapable people only deserve to live like dogs.
+I refuse to accept that only the "capable" deserve a life free from want. Of course, the highly capable can live better—they can live in bigger houses, eat expensive meals, and buy beautiful but useless things. I neither envy nor object to that.
 
-It's unfair to say that someone who's a little less intelligent, slower, poorer, or less capable deserves to be squeezed out, deserves to be homeless, deserves to spend most of their life paying rent, food, and medical bills, and then is told, "Who told you not to work hard?"
+But it cannot follow that those with less ability deserve to live like dogs.
 
-That's the phrase I hate most.
+It is wrong to say that just because someone is a bit slower, less intelligent, poorer, or less skilled, they deserve to be cast aside or left to wander the streets—deserving to spend the better part of their lives slaving away just to cover rent, food, and medical bills, only to be told in the end: "Well, why didn't you try harder?" That is the phrase I loathe the most.
 
-"Who told you not to work hard?"
+"You didn't work hard enough."
 
-"Who told you not to be capable?"
+"You lack the ability."
 
-"Who told you to be unrealistic?"
+"You aren't being realistic."
 
-People who say this seem incredibly clear-headed, mature, and worldly-wise. In reality, many times, they're just not quite fallen yet.
+People who say this act as if they are exceptionally clear-headed, mature, and worldly-wise. In reality, often enough, it is simply that they haven't fallen yet.
 
-The so-called middle class is often not very stable. A job loss, a serious illness, a mortgage default, an industry collapse, a child's accident, an elderly person's hospital bed—these are enough to knock them from a respectable person back into someone who needs pity.
+The so-called middle class is rarely as secure as it seems. A single job loss, a serious illness, a missed mortgage payment, an industry collapse, a child’s accident, an elderly parent’s hospital stay—any of these is enough to strip away their dignity and reduce them to someone in need of pity.
 
-The ridiculous thing is that many people who haven't been eliminated yet love to speak up for the elimination mechanism.
+The irony is that those who haven't yet been cast aside are often the ones most eager to defend the very system that discards people.
 
-They see people who are even poorer and don't feel sad; they just feel lucky it wasn't them. When he sees someone struggling to survive, his first reaction isn't that something is wrong with the world, but rather whether that person isn't hardworking enough, smart enough, or adept enough at navigating social situations.
+When they see someone poorer, they feel no sorrow—only relief that it isn't them. When they see someone unable to survive, their first reaction isn't to question what is wrong with the world, but to wonder if that person simply lacked effort, intelligence, or the savvy to get ahead.
 
-He's not a strong person.
+They are not the strong.
 
-He just hasn't had his turn yet.
+They are simply next in line.
 
-If you use the phrase "incompetent" to explain someone's downfall today, tomorrow they'll use the same phrase to explain yours. If you watch someone else get kicked out today, tomorrow someone will watch you get kicked out. If you think the poor are a different species today, tomorrow you'll find yourself separated from them only by a paycheck, a medical record, or a layoff notice.
+If you dismiss someone’s downfall today by saying they "lack ability," tomorrow others will use those same words to explain your own. If you stand by and watch others get cast out today, tomorrow someone will stand by and watch as you are cast out. If you view the poor as a different species today, tomorrow you may discover that the only thing separating you from them is a paycheck, a medical record, or a layoff notice.
 
-Don't think you're invincible.
+Don't imagine yourself to be so secure.
 
-You're not standing on the shore.
+You aren't standing safely on the shore.
 
-You just haven't fallen into the water yet.
+You simply haven't fallen into the water—yet.
 
-That's why I laugh at social Darwinism.
+That is why I scoff at Social Darwinism.
 
-No, I even find the term itself ridiculous.
+No, I find the very term laughable.
 
-Darwin is Darwin, don't bring in society.
+Darwin is Darwin; leave "society" out of it.
 
-Don't use animalistic logic to judge humanity.
+Don't use the logic of beasts to measure humanity.
 
-Animals fight for territory, vie for mating rights, it's survival of the fittest, that's the animal world. If you truly believe this, then don't live in an apartment building, don't use electric lights, don't go to hospitals, don't send your children to school, don't call the police, don't ride in ambulances, don't enjoy the city's drainage system, don't enjoy any of the protection modern civilization provides.
+Animals fight for territory and mating rights; the weak are devoured by the strong, and only the fittest survive—that is the animal world. If you truly believe in that philosophy, then stop living in apartment buildings, stop using electric lights, stop going to hospitals, stop sending your children to school, stop calling the police, stop taking ambulances, and stop enjoying urban drainage systems or any of the protections modern civilization affords you.
 
-You should return to the wilderness.
+You should go back to the wilderness.
 
-Tear flesh with your teeth, fight for territory with your fists, let your wounds determine your dignity, let hunger determine who survives to see tomorrow.
+Tear flesh with your teeth, fight for territory with your fists, let your wounds define your dignity, and let hunger decide who lives to see tomorrow.
 
-You don't go.
+But you won't go. You simply shelter beneath the eaves of civilization, telling those out in the rain: "It’s your own fault for not being strong enough."
 
-You just hide under the eaves of civilization, telling those in the rain: "It's your own fault for not being strong enough."
+Modern society has built so much: hospitals, schools, roads, bridges, factories, the internet, legal systems, social security, and urban infrastructure. Isn't the purpose of all of this to pull humanity away from the law of the jungle?
 
-Modern society has enough material resources to feed everyone. Humanity has built so many hospitals, schools, roads, bridges, factories, networks, and established such a vast urban and social system. And in the end, you're telling me the weak should still be eliminated?
+Have we humans struggled and strived all these years just to tell some unfortunate soul in the end: "You aren't strong enough, so you deserve this"?
 
-Then what has humanity been doing all these years?
+We build hospitals so the sick can survive. We build schools so the slow-witted have a chance to learn. We establish laws to prevent the strong from bullying the weak. We create social safety nets so the unlucky don't plummet straight into the abyss.
 
-Building hospitals, isn't it to help patients survive?
+Isn't the very meaning of modern civilization to ensure that people no longer have to compete like wild beasts just for the right to exist?
 
-Building schools, isn't it to give even the dull-witted a chance to learn something?
+You enjoy the benefits of civilization, yet you judge others by the rules of the jungle.
 
-Building laws, isn't it to prevent the strong from bullying the weak?
+Whatever faults the world may have, I have no intention of putting it on trial point by point. I only know that I am right.
 
-Isn't the purpose of establishing social security to prevent the unfortunate from immediately falling into an abyss?
+The right to survive should not be packaged as a prize to be awarded only to the smartest, the most beautiful, the most ruthless competitors, or the most submissive conformists.
 
-Isn't the meaning of modern civilization to free people from the struggle for survival like wild beasts?
+When a person is born into this world, they ought to have a place where they can stand.
 
-You enjoy civilization, yet judge others using the rules of beasts.
+If they don't, the fault does not lie with them alone.
 
-I have no intention of judging the world for its faults, nor for its individual transgressions. I only know that I am right.
+The world is not an abstraction. It is not the sky, fate, the times, or the glib phrase "that's just how society is." The world is made of flesh-and-blood people; it is rules, rent, wages, hospital beds, household registrations, contracts, the beneficiaries, the silent majority, and those who see someone fall and say, "They just couldn't cut it."
 
-The right to live should not be packaged as a prize and awarded to the smartest, most beautiful, most competitive, and most subservient.
+The world also includes you, the person reading these words right now.
 
-Everyone born into this world should have a place to stand.
+I do not ask for your liking or your sympathy. I care very little about what others think.
 
-If not, it's not solely their fault.
+I focus only on my own convictions.
 
-The world is not an abstract concept. It's not the sky, not fate, not the times, not a simple statement like "that's just how society is." The world is made up of concrete individuals, rules, rent, wages, hospital beds, household registration, contracts, those who benefit, those who remain silent, and those who see others fall and say, "He can't do it himself."
+I will not leave.
 
-The world also includes you, the reader of this text.
+I will not run away.
 
-I don't ask you to like me or pity me. I don't really care what others think.
+I will not frame my predicament as something I deserve, nor will I make excuses for the world's indifference.
 
-I only focus on my own thoughts.
+I stand right here. I am going nowhere; I am hiding nowhere. I look with my eyes, I brace myself with my body, and I confront it head-on with the little strength I have.
 
-I won't leave.
+If the world is wrong, I will change the world.
 
-I won't run away.
-
-I won't explain my predicament as deserved, nor will I make excuses for the world's indifference.
-
-I'll stand here. Nowhere to go, nowhere to hide. I'll see with my eyes, withstand with my body, and face it head-on with the little strength I have left.
-
-If the world is wrong, I'll change the world.
-
-Whoever is wrong, I'll change them.
-
-Even if I ultimately change nothing, I won't admit I deserve to be driven away.
+Whoever is in the wrong, I will change them. Even if nothing changes in the end, I refuse to accept that I deserve to be driven away.
 
 I can be broken.
 
-But I won't leave.
+But I will not leave.
