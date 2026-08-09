@@ -15,6 +15,14 @@ hasCJKLanguage = true
   ShowCodeCopyButtons = true
   displayFullLangName = true
 
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/meixiaoqiu"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:w@9yue8.com"
+
 [languages]
 
   [languages.zh]
@@ -36,6 +44,12 @@ hasCJKLanguage = true
       url = '/voice/'
       weight = 10
 
+    [[languages.zh.menu.main]]
+      identifier = 'livingforfree'
+      name = '免费活着'
+      pageRef = '/books/livingforfree'
+      weight = 20
+
 
   [languages.en]
     label = 'English'
@@ -55,3 +69,19 @@ hasCJKLanguage = true
       name = 'Voice'
       url = '/en/voice/'
       weight = 10
+
+    [[languages.en.menu.main]]
+      identifier = 'livingforfree'
+      name = 'LivingForFree'
+      pageRef = '/books/livingforfree'
+      weight = 20
+
+[module]
+
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+
+  [[module.mounts]]
+    source = 'books/livingforfree/content'
+    target = 'content/books/livingforfree'
