@@ -72,3 +72,23 @@
     width: min(86vw, 360px);
   }
 }
+
+/* 其他链接 */
+.syndication {
+    margin: 32px 0 20px;
+}
+
+.syndication-title {
+    margin-bottom: 8px;
+}
+
+.syndication-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.syndication-links a {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}

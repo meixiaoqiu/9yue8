@@ -22,6 +22,11 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
+syndication:
+  - name: Patreon
+    url: https://www.patreon.com/9yue8/posts/wo-bu-zou-166198503
+  - name: Substack
+    url: https://9yue8.substack.com/p/676
 author: 小王
 weight:
 ---

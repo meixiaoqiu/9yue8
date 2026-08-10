@@ -46,7 +46,7 @@ hasCJKLanguage = true
 
     [[languages.zh.menu.main]]
       identifier = 'livingforfree'
-      name = '免费活着'
+      name = '《免费活着》'
       pageRef = '/books/livingforfree'
       weight = 20
 

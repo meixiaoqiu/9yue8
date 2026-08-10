@@ -1,0 +1,25 @@
+{{- with .Params.syndication }}
+<section class="syndication">
+  <div class="syndication-title">
+    <strong>
+      {{- if eq $.Language.Lang "zh" -}}
+        本内容在其他平台
+      {{- else -}}
+        Also available on
+      {{- end -}}
+    </strong>
+  </div>
+
+  <div class="syndication-links">
+    {{- range . }}
+      {{- if .url }}
+        <span>[
+          <a href="{{ .url }}"
+             target="_blank"
+             rel="noopener noreferrer">{{ .name }}</a>
+        ]</span>
+      {{- end }}
+    {{- end }}
+  </div>
+</section>
+{{- end }}
