@@ -27,6 +27,8 @@ syndication:
     url: https://www.patreon.com/9yue8/posts/wo-bu-zou-166198503
   - name: Substack
     url: https://9yue8.substack.com/p/676
+  - name: 头条
+    url: https://www.toutiao.com/article/7672451502191018538/
 author: 小王
 weight:
 ---

@@ -24,6 +24,9 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
+syndication:
+  - name: Substack
+    url: https://9yue8.substack.com/p/38d
 author: 小王
 weight:
 ---

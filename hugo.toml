@@ -23,6 +23,10 @@ hasCJKLanguage = true
     name = "email"
     url = "mailto:w@9yue8.com"
 
+  [[params.socialIcons]]
+    name = "wechat"
+    url = "/wechatid/"
+
 [languages]
 
   [languages.zh]
