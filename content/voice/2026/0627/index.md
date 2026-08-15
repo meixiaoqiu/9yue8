@@ -29,6 +29,8 @@ syndication:
     url: https://9yue8.substack.com/p/676
   - name: 头条
     url: https://www.toutiao.com/article/7672451502191018538/
+  - name: 公众号
+    url: https://mp.weixin.qq.com/s/zDBpWKbF6aXE2OAPl-rWXw
 author: 小王
 weight:
 ---

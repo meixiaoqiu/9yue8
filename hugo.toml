@@ -43,6 +43,12 @@ hasCJKLanguage = true
       Content = '小王的个人网站'
 
     [[languages.zh.menu.main]]
+      identifier = 'video'
+      name = '视频'
+      url = '/video/'
+      weight = 10
+
+    [[languages.zh.menu.main]]
       identifier = 'voice'
       name = '表达'
       url = '/voice/'
@@ -67,6 +73,12 @@ hasCJKLanguage = true
     [languages.en.params.homeInfoParams]
       Title = '9月8'
       Content = "Xiaowang website"
+
+    [[languages.en.menu.main]]
+      identifier = 'video'
+      name = 'Video'
+      url = '/en/video/'
+      weight = 10
 
     [[languages.en.menu.main]]
       identifier = 'voice'
