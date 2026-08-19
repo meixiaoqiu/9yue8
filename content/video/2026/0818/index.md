@@ -25,6 +25,10 @@ syndication:
     url: https://cloud.9yue8.com/video/wzy001.mp4
   - name: YouTube
     url: https://www.youtube.com/watch?v=N4zWh9vh9TE
+  - name: BiliBili
+    url: https://www.bilibili.com/video/BV1vC836qE6S/
+  - name: 抖音
+    url: https://www.douyin.com/video/7675354109524598150
 author: 小王
 weight: 
 ---
@@ -32,3 +36,7 @@ weight:
 ## YouTube在线观看
 
 {{< youtube N4zWh9vh9TE >}}
+
+## BiliBili在线观看
+
+{{< bilibili BV1vC836qE6S >}}

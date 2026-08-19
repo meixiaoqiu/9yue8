@@ -92,3 +92,23 @@
     text-decoration: underline;
     text-underline-offset: 3px;
 }
+
+/*视频封面*/
+.video-entry {
+    display: flex !important;
+    flex-direction: row;
+    gap: 1.2rem;
+    align-items: flex-start;
+}
+
+.video-entry-cover {
+    width: 180px;
+    flex-shrink: 0;
+}
+
+.video-entry-cover img {
+    width: 180px !important;
+    height: auto !important;
+    display: block;
+    border-radius: var(--radius);
+}
