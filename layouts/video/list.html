@@ -64,77 +64,29 @@
 {{- $paginator := .Paginate $pages }}
 
 
-{{- range $paginator.Pages }}
-
-{{- $page := . }}
-
-<article class="post-entry video-entry">
-
-  {{/* 左侧封面 */}}
-  {{- with $page.Params.cover.image }}
-
-    {{- with $page.Resources.Get . }}
-
-    <div class="video-entry-cover">
-      <img loading="lazy"
-           src="{{ .RelPermalink }}"
-           alt="{{ $page.Title }}">
-    </div>
-
-    {{- end }}
-
-  {{- end }}
-
-
-  {{/* 右侧内容 */}}
-  <div class="video-entry-content">
-
-    <header class="entry-header">
-      <h2 class="entry-hint-parent">
-        {{ $page.Title }}
-
-        {{- if $page.Draft }}
-        <span class="entry-hint" title="Draft">
-          Draft
-        </span>
+<div class="video-grid">
+  {{- range $column := (slice 0 1) }}
+  <div class="video-column">
+    {{- range $index, $page := $paginator.Pages }}
+      {{- if eq (mod $index 2) $column }}
+        {{- with $page.Params.cover.image }}
+          {{- with $page.Resources.Get . }}
+          <article class="video-entry">
+            <a class="video-entry-link"
+               href="{{ $page.RelPermalink }}"
+               aria-label="查看视频：{{ $page.Title | plainify }}">
+              <img loading="lazy"
+                   src="{{ .RelPermalink }}"
+                   alt="{{ $page.Title | plainify }}">
+            </a>
+          </article>
+          {{- end }}
         {{- end }}
-
-      </h2>
-    </header>
-
-
-    {{- if (ne ($page.Param "hideSummary") true) }}
-
-    <div class="entry-content">
-      <p>
-        {{ $page.Summary | plainify | htmlUnescape }}
-        {{ if $page.Truncated }}...{{ end }}
-      </p>
-    </div>
-
+      {{- end }}
     {{- end }}
-
-
-    {{- if not ($page.Param "hideMeta") }}
-
-    <footer class="entry-footer">
-      {{ partial "post_meta.html" $page }}
-    </footer>
-
-    {{- end }}
-
   </div>
-
-
-  <a class="entry-link"
-     aria-label="post link to {{ $page.Title | plainify }}"
-     href="{{ $page.Permalink }}">
-  </a>
-
-
-</article>
-
-{{- end }}
+  {{- end }}
+</div>
 
 
 

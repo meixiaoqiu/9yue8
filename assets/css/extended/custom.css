@@ -93,22 +93,33 @@
     text-underline-offset: 3px;
 }
 
-/*视频封面*/
+/* 视频封面瀑布流 */
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+    align-items: start;
+}
+
+.video-column {
+    display: flex;
+    min-width: 0;
+    flex-direction: column;
+    gap: 16px;
+}
+
 .video-entry {
-    display: flex !important;
-    flex-direction: row;
-    gap: 1.2rem;
-    align-items: flex-start;
+    width: 100%;
+    margin: 0;
 }
 
-.video-entry-cover {
-    width: 180px;
-    flex-shrink: 0;
-}
-
-.video-entry-cover img {
-    width: 180px !important;
-    height: auto !important;
+.video-entry-link,
+.video-entry-link img {
     display: block;
+    width: 100%;
+}
+
+.video-entry-link img {
+    height: auto;
     border-radius: var(--radius);
 }
