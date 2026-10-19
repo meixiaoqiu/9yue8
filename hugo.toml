@@ -6,6 +6,9 @@ defaultContentLanguage = 'zh'
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = true
 
+[pagination]
+  pagerSize = 20
+
 [params]
   env = 'production'
   defaultTheme = 'auto'
